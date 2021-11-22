@@ -6,9 +6,16 @@ public class Sample {
 	private void clgname() {
 		System.out.println("AIHT");
 	}
+	
+	public void rollno() {
+		System.out.println("rollno");
+	}
+	
+	
 		public static void main(String[] args) {
 			Sample v=new Sample();
 			v.clgname();
+			v.rollno();
 
 }
 }
