@@ -7,6 +7,10 @@ public class Sample {
 		System.out.println("AIHT");
 	}
 	
+	public  void city() {
+		System.out.println("chennai");
+	}
+	
 	public  void state() {
 		System.out.println("Tamilnadu");
 	}
